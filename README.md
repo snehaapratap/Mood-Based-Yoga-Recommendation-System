@@ -13,7 +13,7 @@ This project leverages AI to recommend yoga routines based on the user's mood. B
 ---
 
 ## **Dataset**
-The dataset contains various recommendation of mood descriptions, their corresponding sentiment labels, and yoga recommendations. It covers a wide range of emotions and associated yoga practices for diversity and relevance.
+The dataset contains various recommendations of mood descriptions, their corresponding sentiment labels, and yoga recommendations. It covers a wide range of emotions and associated yoga practices for diversity and relevance.
 
 | Mood Text                              | Sentiment Label | Yoga Recommendation                          |
 |----------------------------------------|-----------------|-----------------------------------------------|
