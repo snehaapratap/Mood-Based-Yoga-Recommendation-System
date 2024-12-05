@@ -64,7 +64,7 @@ The goal is to recommend yoga routines that match the user's emotional state, im
 ### **Frontend Setup**
 1. Navigate to the frontend folder:
    ```bash
-   cd mood-based-yoga-recommender/frontend
+   cd frontend/mood-based-yoga-recommender
    ```
 2. Install dependencies:
    ```bash
@@ -115,7 +115,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## **Contact**
 For queries or suggestions:
-- **Name**: [Sneha P Pratap]
+- **Name**: Sneha P Pratap
 - **Email**: sneha.prem918@gmail.com
 - **GitHub**: [snehaapratap](https://github.com/snehaapratap)
 
