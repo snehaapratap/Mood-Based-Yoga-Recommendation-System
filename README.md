@@ -105,11 +105,9 @@ The goal is to recommend yoga routines that match the user's emotional state, im
 A video demonstration showcasing:
 - User interaction on the frontend.
 - Mood analysis and yoga recommendation in action.
-- [Link to the demo video](#) (Upload and replace with the actual video link).
 
----
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
+  
+[Link to the demo video](https://github.com/user-attachments/assets/7a073a90-7676-42a0-8b06-a1f4f70247b5).
 
 ---
 
@@ -119,3 +117,5 @@ For queries or suggestions:
 - **Email**: sneha.prem918@gmail.com
 - **GitHub**: [snehaapratap](https://github.com/snehaapratap)
 
+
+Contributions are welcome! Feel free to fork the repository and submit pull requests.
